@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+const process = require("process");
 const path = require("path");
 const fs = require("fs");
 const ohm = require("ohm-js");
@@ -40,7 +41,7 @@ function read(filepath) {
     console.log(usage);
     process.exit(1);
   }
-  return fs.readFileSync(path.resolve(__dirname, filepath), "utf8");
+  return fs.readFileSync(path.resolve(process.cwd(), filepath), "utf8");
 }
 
 function ok() {
