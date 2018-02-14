@@ -1,6 +1,6 @@
 {
   "name": "ohm-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A CLI for the Ohm parser generator",
   "license": "MIT",
   "repository": "robertothais/ohm-cli",
@@ -18,8 +18,14 @@
   "scripts": {
     "test": "jest"
   },
-  "files": ["cli.js"],
-  "keywords": ["cli", "ohm", "parser generator"],
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli",
+    "ohm",
+    "parser generator"
+  ],
   "dependencies": {
     "ohm-js": "^0.14.0"
   },
