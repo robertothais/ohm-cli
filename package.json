@@ -1,6 +1,6 @@
 {
   "name": "ohm-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI for the Ohm parser generator",
   "license": "MIT",
   "repository": "robertothais/ohm-cli",
