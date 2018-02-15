@@ -1,5 +1,6 @@
 # ohm-cli
 
+[![CircleCI](https://circleci.com/gh/robertothais/ohm-cli.svg?style=shield)](https://circleci.com/gh/robertothais/ohm-cli)
 [![NPM](https://img.shields.io/npm/v/ohm-cli.svg?style=flat-square)](https://www.npmjs.com/package/ohm-cli)
 
 > A CLI for the [Ohm](https://github.com/harc/ohm) parser generator
