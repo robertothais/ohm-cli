@@ -1,6 +1,5 @@
 # ohm-cli
 
-[![Build Status](https://travis-ci.org/robertothais/ohm-cli.svg?branch=master)](https://travis-ci.org/robertothais/ohm-cli)
 [![NPM](https://img.shields.io/npm/v/ohm-cli.svg?style=flat-square)](https://www.npmjs.com/package/ohm-cli)
 
 > A CLI for the [Ohm](https://github.com/harc/ohm) parser generator
